@@ -28,16 +28,5 @@ a {
 }
 
 a:hover {
-    color: #2980b9;
-}
-
-.calibre1 {
-    font-size: 1em;
-}
-
-.top-level-extent {
-    margin: 20px;
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
+    color: #226897;
 }
